@@ -1,0 +1,11 @@
+HTTrack3.49-5 launched on Sat, 10 May 2025 23:41:11 at https://jsr.unuha.ac.id/index.php/ENJEL/user/register?source=
+(httrack -u https://jsr.unuha.ac.id/index.php/ENJEL/user/register?source= )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-5 mirror complete in 3 seconds : 3 links scanned, 2 files written (54058 bytes overall) [17324 bytes received at 5774 bytes/sec], 54110 bytes transferred using HTTP compression in 3 files, ratio 26%, 1.5 requests per connection
+(No errors, 0 warnings, 0 messages)

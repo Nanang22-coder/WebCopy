@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jsr.unuha.ac.id	TRUE	/	FALSE	1999999999	OJSSID	ml1me46g5dqns54aadacq3sglg
+jsr.unuha.ac.id	TRUE	/	FALSE	1999999999	SameSite	Lax
+
